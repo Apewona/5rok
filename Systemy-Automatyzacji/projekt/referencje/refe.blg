@@ -1,0 +1,135 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: refe.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refe.bib
+Warning--entry type for "DesignNewRobot" isn't style-file defined
+--line 159 of file refe.bib
+Warning--entry type for "koszewnikFastPrototypingMethod2011" isn't style-file defined
+--line 332 of file refe.bib
+Warning--entry type for "LyapunovFunctionsFractional" isn't style-file defined
+--line 416 of file refe.bib
+Warning--entry type for "piotrowskaAnalizaObwodowElektrycznych" isn't style-file defined
+--line 504 of file refe.bib
+Warning--to sort, need author or key in DesignNewRobot
+Warning--to sort, need author or key in LyapunovFunctionsFractional
+Warning--empty journal in abd-elmonemComprehensiveReviewFractionalorder2023
+Warning--empty year in abd-elmonemComprehensiveReviewFractionalorder2023
+Warning--empty journal in abdeljawadRiemannCaputoFractional2011
+Warning--empty year in abdeljawadRiemannCaputoFractional2011
+Warning--empty journal in aguila-camachoLyapunovFunctionsFractional2014
+Warning--empty year in aguila-camachoLyapunovFunctionsFractional2014
+Warning--empty year in alekseiFlexibleMATLABTool2012
+Warning--empty year in azarFractionalOrderSystems2018
+Warning--empty journal in baekROSBasedUnmannedMobile2022
+Warning--empty year in baekROSBasedUnmannedMobile2022
+Warning--empty year in baiRecentAdvancesMechanism2015
+Warning--empty journal in boukhouimaLyapunovFunctionsFractionalOrder2020
+Warning--empty year in boukhouimaLyapunovFunctionsFractionalOrder2020
+Warning--empty year in brzezinskiGrunwaldLetnikovFormulaIts2012
+Warning--empty year in chikurtevMobileRobotSimulation2020
+Warning--empty journal in fareedApproximateSolutionFractional2022
+Warning--empty year in fareedApproximateSolutionFractional2022
+Warning--empty journal in farmanModelingAnalysisSustainable2023
+Warning--empty year in farmanModelingAnalysisSustainable2023
+Warning--empty journal in goldsteinClassicalMechanics
+Warning--empty year in goldsteinClassicalMechanics
+Warning--empty year in gonczarekTeoriaGrupFizyce2003
+Warning--empty year in hallLieGroupsLie2003
+Warning--can't use both author and editor fields in isidoriNonlinearControlSystems1995
+Warning--empty year in isidoriNonlinearControlSystems1995
+Warning--can't use both author and editor fields in isidoriNonlinearControlSystems1999
+Warning--empty year in isidoriNonlinearControlSystems1999
+Warning--can't use both author and editor fields in kaczorekSelectedProblemsFractional2011
+Warning--empty year in kaczorekSelectedProblemsFractional2011
+Warning--empty year in kaczorekFractionalLinearSystems2015
+Warning--empty year in kaczorekPositiveFractionalElectrical2015
+Warning--empty journal in kankarejFRACTIONALFIELDSTANDARD2023
+Warning--empty year in kankarejFRACTIONALFIELDSTANDARD2023
+Warning--empty year in kimRoboFuzzFuzzingRobotic2022
+Warning--empty journal in kumarDelayedPlantDisease2022
+Warning--empty year in kumarDelayedPlantDisease2022
+Warning--empty journal in liDeterminingLyapunovExponents2023
+Warning--empty year in liDeterminingLyapunovExponents2023
+Warning--empty journal in liReviewEvaluationNumerical2015
+Warning--empty year in liReviewEvaluationNumerical2015
+Warning--can't use both author and editor fields in liberzonSwitchingSystemsControl2003
+Warning--empty year in liberzonSwitchingSystemsControl2003
+Warning--empty journal in linStabilityStabilizabilitySwitched2009
+Warning--empty year in linStabilityStabilizabilitySwitched2009
+Warning--empty journal in macenskiDesksROSMaintainers2023
+Warning--empty year in macenskiDesksROSMaintainers2023
+Warning--empty year in malinowskaAdvancedMethodsFractional2015
+Warning--empty journal in matusiakProblemsSolvingFractional2019
+Warning--empty year in matusiakProblemsSolvingFractional2019
+Warning--empty journal in mortariTheoryFunctionalConnections2023
+Warning--empty year in mortariTheoryFunctionalConnections2023
+Warning--empty journal in muftahModelingFuzzyFOPID2022
+Warning--empty year in muftahModelingFuzzyFOPID2022
+Warning--empty year in podlubnyFractionalDifferentialEquations1998
+Warning--empty journal in popolizioMatrixMittagLeffler2019
+Warning--empty year in popolizioMatrixMittagLeffler2019
+Warning--empty journal in rajeshOptimalTuningFOPID2019
+Warning--empty year in rajeshOptimalTuningFOPID2019
+Warning--empty year in rindlerCalculusVariations2018
+Warning--empty journal in tajadodiEfficientTechniqueSolving2020
+Warning--empty year in tajadodiEfficientTechniqueSolving2020
+Warning--empty journal in tepljakovFOPIDControllersTheir2018
+Warning--empty year in tepljakovFOPIDControllersTheir2018
+Warning--empty journal in tepljakovFOMCONMATLABToolbox2011
+Warning--empty year in tepljakovFOMCONMATLABToolbox2011
+Warning--empty journal in turkyilmazogluFractionalModelsFalling2023
+Warning--empty year in turkyilmazogluFractionalModelsFalling2023
+Warning--empty journal in tzounasTheoryImplementationFractional2020
+Warning--empty year in tzounasTheoryImplementationFractional2020
+Warning--empty year in vivasUR5RobotManipulation2021
+Warning--empty journal in wangConditionsStabilitySwitched2019
+Warning--empty year in wangConditionsStabilitySwitched2019
+Warning--empty journal in wyrwasStabilityDiscreteFractionalOrder2013
+Warning--empty year in wyrwasStabilityDiscreteFractionalOrder2013
+Warning--empty journal in zhaoResearchImplementationAutonomous2022
+Warning--empty year in zhaoResearchImplementationAutonomous2022
+You've used 49 entries,
+            2118 wiz_defined-function locations,
+            781 strings with 15812 characters,
+and the built_in function-call counts, 15760 in all, are:
+= -- 1439
+> -- 742
+< -- 10
++ -- 299
+- -- 244
+* -- 1196
+:= -- 2549
+add.period$ -- 147
+call.type$ -- 49
+change.case$ -- 256
+chr.to.int$ -- 0
+cite$ -- 127
+duplicate$ -- 606
+empty$ -- 1271
+format.name$ -- 244
+if$ -- 3209
+int.to.chr$ -- 0
+int.to.str$ -- 49
+missing$ -- 56
+newline$ -- 241
+num.names$ -- 97
+pop$ -- 424
+preamble$ -- 1
+purify$ -- 219
+quote$ -- 0
+skip$ -- 380
+stack$ -- 0
+substring$ -- 910
+swap$ -- 89
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 172
+warning$ -- 78
+while$ -- 149
+width$ -- 51
+write$ -- 446
+(There were 82 warnings)
