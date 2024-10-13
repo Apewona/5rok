@@ -1,0 +1,301 @@
+\begin{thebibliography}{10}
+
+\bibitem{DesignNewRobot}
+Design of a new {{Robot Operating System-MATLAB-based}} autonomous robot system
+  and trajectory tracking experiment - {{Zhenning Yu}}, {{Fengxiang Ge}},
+  {{Seng Fat Wong}}, 2024.
+
+\bibitem{LyapunovFunctionsFractional}
+Lyapunov functions for fractional order systems - {{ScienceDirect}}.
+
+\bibitem{abd-elmonemComprehensiveReviewFractionalorder2023}
+Assmaa Abd-Elmonem, Ramashis Banerjee, Shabir Ahmad, Wasim Jamshed,
+  Kottakkaran~Sooppy Nisar, Mohamed~R. Eid, Rabha~W. Ibrahim, and Sayed M.~El
+  Din.
+\newblock A comprehensive review on fractional-order optimal control problem
+  and its solution.
+\newblock 21(1).
+
+\bibitem{abdeljawadRiemannCaputoFractional2011}
+Thabet Abdeljawad.
+\newblock On {{Riemann}} and {{Caputo Fractional Differences}}.
+\newblock 62(3):1602--1611.
+
+\bibitem{aguila-camachoLyapunovFunctionsFractional2014}
+Norelys Aguila-Camacho, Manuel~A. Duarte-Mermoud, and Javier~A. Gallegos.
+\newblock Lyapunov functions for fractional order systems.
+\newblock 19(9):2951--2957.
+
+\bibitem{alekseiFlexibleMATLABTool2012}
+Tepljakov Aleksei, Petlenkov Eduard, and Belikov Juri.
+\newblock A {{Flexible MATLAB Tool}} for {{Optimal Fractional-Order PID
+  Controller Design Subject}} to {{Specifications}}.
+\newblock In {\em Proceedings of the 31st {{Chinese Control Conference}}},
+  pages 4698--4703.
+
+\bibitem{azarFractionalOrderSystems2018}
+Ahmad~Taher Azar, Ahmed~G. Radwan, and Sundarapandian Vaidyanathan.
+\newblock {\em Fractional {{Order Systems}}: {{Optimization}}, {{Control}},
+  {{Circuit Realizations}} and {{Applications}}}.
+\newblock Academic Press.
+
+\bibitem{baekROSBasedUnmannedMobile2022}
+Eu-Tteum Baek and Dae-Yeong Im.
+\newblock {{ROS-Based Unmanned Mobile Robot Platform}} for {{Agriculture}}.
+\newblock 12(9):4335.
+
+\bibitem{baiRecentAdvancesMechanism2015}
+Shaoping Bai and Marco Ceccarelli, editors.
+\newblock {\em Recent {{Advances}} in {{Mechanism Design}} for {{Robotics}}:
+  {{Proceedings}} of the 3rd {{IFToMM Symposium}} on {{Mechanism Design}} for
+  {{Robotics}}}, volume~33 of {\em Mechanisms and {{Machine Science}}}.
+\newblock Springer International Publishing.
+
+\bibitem{boukhouimaLyapunovFunctionsFractionalOrder2020}
+Adnane Boukhouima, Khalid Hattaf, El~Mehdi Lotfi, Marouane Mahrouf, Delfim
+  F.~M. Torres, and Noura Yousfi.
+\newblock Lyapunov {{Functions}} for {{Fractional-Order Systems}} in
+  {{Biology}}: {{Methods}} and {{Applications}}.
+\newblock 140:110224.
+
+\bibitem{brzezinskiGrunwaldLetnikovFormulaIts2012}
+Dariusz~W. Brzeziński and Piotr Ostalczyk.
+\newblock The {{Grünwald-Letnikov}} formula and its equivalent {{Horner}}'s
+  form accuracy comparison and evaluation for application to fractional order
+  {{PID}} controllers.
+\newblock In {\em 2012 17th {{International Conference}} on {{Methods}} \&
+  {{Models}} in {{Automation}} \& {{Robotics}} ({{MMAR}})}, pages 579--584.
+
+\bibitem{chikurtevMobileRobotSimulation2020}
+Denis Chikurtev.
+\newblock Mobile {{Robot Simulation}} and {{Navigation}} in {{ROS}} and
+  {{Gazebo}}.
+\newblock In {\em 2020 {{International Conference Automatics}} and
+  {{Informatics}} ({{ICAI}})}, pages 1--6.
+
+\bibitem{fareedApproximateSolutionFractional2022}
+Aisha~F. Fareed, Mourad~S. Semary, and Hany~N. Hassan.
+\newblock An approximate solution of fractional order {{Riccati}} equations
+  based on controlled {{Picard}}’s method with {{Atangana}}–{{Baleanu}}
+  fractional derivative.
+\newblock 61(5):3673--3678.
+
+\bibitem{farmanModelingAnalysisSustainable2023}
+Muhammad Farman, Rabia Sarwar, and Ali Akgul.
+\newblock Modeling and {{Analysis}} of {{Sustainable Approach}} for
+  {{Dynamics}} of {{Infections}} in {{Plant Virus}} with {{Fractal Fractional
+  Operator}}.
+\newblock 170:113373.
+
+\bibitem{goldsteinClassicalMechanics}
+Herbert Goldstein, Charles~P Poole, and John Safko.
+\newblock Classical {{Mechanics}}.
+
+\bibitem{gonczarekTeoriaGrupFizyce2003}
+Ryszard Gonczarek.
+\newblock {\em Teoria Grup w Fizyce}.
+\newblock Oficyna Wydawnicza Politechniki Wrocławskiej.
+
+\bibitem{hallLieGroupsLie2003}
+Brian~C. Hall.
+\newblock {\em Lie {{Groups}}, {{Lie Algebras}}, and {{Representations}}},
+  volume 222 of {\em Graduate {{Texts}} in {{Mathematics}}}.
+\newblock Springer.
+
+\bibitem{isidoriNonlinearControlSystems1995}
+Alberto Isidori.
+\newblock {\em Nonlinear {{Control Systems}}}.
+\newblock Communications and {{Control Engineering}}. Springer.
+
+\bibitem{isidoriNonlinearControlSystems1999}
+Alberto Isidori.
+\newblock {\em Nonlinear {{Control Systems II}}}.
+\newblock Communications and {{Control Engineering}}. Springer.
+
+\bibitem{kaczorekSelectedProblemsFractional2011}
+Tadeusz Kaczorek.
+\newblock {\em Selected {{Problems}} of {{Fractional Systems Theory}}}, volume
+  411 of {\em Lecture {{Notes}} in {{Control}} and {{Information Sciences}}}.
+\newblock Springer.
+
+\bibitem{kaczorekFractionalLinearSystems2015}
+Tadeusz Kaczorek and Krzysztof Rogowski.
+\newblock {\em Fractional {{Linear Systems}} and {{Electrical Circuits}}},
+  volume~13 of {\em Studies in {{Systems}}, {{Decision}} and {{Control}}}.
+\newblock Springer International Publishing.
+
+\bibitem{kaczorekPositiveFractionalElectrical2015}
+Tadeusz Kaczorek and Krzysztof Rogowski.
+\newblock Positive {{Fractional Electrical Circuits}}.
+\newblock In Tadeusz Kaczorek and Krzysztof Rogowski, editors, {\em Fractional
+  {{Linear Systems}} and {{Electrical Circuits}}}, pages 49--80. Springer
+  International Publishing.
+
+\bibitem{kankarejFRACTIONALFIELDSTANDARD2023}
+Manisha Kankarej and Jai~Pratap Singh.
+\newblock {{FRACTIONAL FIELD WITH STANDARD FRACTIONAL VECTOR CROSS PRODUCT}}.
+\newblock VOL 41:811--819.
+
+\bibitem{kimRoboFuzzFuzzingRobotic2022}
+Seulbae Kim and Taesoo Kim.
+\newblock {{RoboFuzz}}: Fuzzing robotic systems over robot operating system
+  ({{ROS}}) for finding correctness bugs.
+\newblock In {\em Proceedings of the 30th {{ACM Joint European Software
+  Engineering Conference}} and {{Symposium}} on the {{Foundations}} of
+  {{Software Engineering}}}, pages 447--458. ACM.
+
+\bibitem{koszewnikFastPrototypingMethod2011}
+Andrzej Koszewnik.
+\newblock Fast {{Prototyping Method}} of the {{Active Vibration Damping}} for
+  {{Mechanical Systems}}.
+
+\bibitem{kumarDelayedPlantDisease2022}
+Pushpendra Kumar, Dumitru Baleanu, Vedat~Suat Erturk, Mustafa Inc, and
+  V.~Govindaraj.
+\newblock A {{Delayed Plant Disease Model}} with {{Caputo Fractional
+  Derivatives}}.
+\newblock 2022(1):11.
+
+\bibitem{liDeterminingLyapunovExponents2023}
+Hang Li, Yongjun Shen, Yanjun Han, Jinlu Dong, and Jian Li.
+\newblock Determining {{Lyapunov}} exponents of fractional-order systems: {{A}}
+  general method based on memory principle.
+\newblock 168:113167.
+
+\bibitem{liReviewEvaluationNumerical2015}
+Zhuo Li, Lu~Liu, Sina Dehghan, YangQuan Chen, and Dingyu Xue.
+\newblock A review and evaluation of numerical tools for fractional calculus
+  and fractional order control.
+\newblock 90.
+
+\bibitem{liberzonSwitchingSystemsControl2003}
+Daniel Liberzon.
+\newblock {\em Switching in {{Systems}} and {{Control}}}.
+\newblock Systems \& {{Control}}: {{Foundations}} \& {{Applications}}.
+  Birkhäuser.
+
+\bibitem{linStabilityStabilizabilitySwitched2009}
+Hai Lin and Panos~J. Antsaklis.
+\newblock Stability and {{Stabilizability}} of {{Switched Linear Systems}}: {{A
+  Survey}} of {{Recent Results}}.
+\newblock 54(2):308--322.
+
+\bibitem{macenskiDesksROSMaintainers2023}
+Steve Macenski, Tom Moore, David~V. Lu, Alexey Merzlyakov, and Michael
+  Ferguson.
+\newblock From the desks of {{ROS}} maintainers: {{A}} survey of modern \&
+  capable mobile robotics algorithms in the robot operating system 2.
+\newblock 168:104493.
+
+\bibitem{malinowskaAdvancedMethodsFractional2015}
+Agnieszka~B. Malinowska, Tatiana Odzijewicz, and Delfim~F.M. Torres.
+\newblock {\em Advanced {{Methods}} in the {{Fractional Calculus}} of
+  {{Variations}}}.
+\newblock {{SpringerBriefs}} in {{Applied Sciences}} and {{Technology}}.
+  Springer International Publishing.
+
+\bibitem{matusiakProblemsSolvingFractional2019}
+Mariusz Matusiak and Piotr Ostalczyk.
+\newblock Problems in solving fractional differential equations in a
+  microcontroller implementation of an {{FOPID}} controller.
+\newblock 68(3):565--577.
+
+\bibitem{mortariTheoryFunctionalConnections2023}
+Daniele Mortari, Roberto Garrappa, and Luigi Nicolò.
+\newblock Theory of {{Functional Connections Extended}} to {{Fractional
+  Operators}}.
+\newblock 11(7):1721.
+
+\bibitem{muftahModelingFuzzyFOPID2022}
+Mohamed~Naji Muftah, Ahmad Athif~Mohd Faudzi, Shafishuhaza Sahlan, and Mokhtar
+  Shouran.
+\newblock Modeling and {{Fuzzy FOPID Controller Tuned}} by {{PSO}} for
+  {{Pneumatic Positioning System}}.
+\newblock 15(10):3757.
+
+\bibitem{piotrowskaAnalizaObwodowElektrycznych}
+Ewa Piotrowska.
+\newblock Analiza obwodów elektrycznych zawierających elementy opisane
+  pochodną o różnych rzędach niecałkowitych.
+
+\bibitem{podlubnyFractionalDifferentialEquations1998}
+Igor Podlubny.
+\newblock {\em Fractional {{Differential Equations}}: {{An Introduction}} to
+  {{Fractional Derivatives}}, {{Fractional Differential Equations}}, to
+  {{Methods}} of {{Their Solution}} and {{Some}} of {{Their Applications}}}.
+\newblock Elsevier.
+
+\bibitem{popolizioMatrixMittagLeffler2019}
+Marina Popolizio.
+\newblock On the {{Matrix Mittag}}–{{Leffler Function}}: {{Theoretical
+  Properties}} and {{Numerical Computation}}.
+\newblock 7(12):1140.
+
+\bibitem{rajeshOptimalTuningFOPID2019}
+R.~Rajesh.
+\newblock Optimal {{Tuning}} of {{FOPID Controller Based}} on {{PSO Algorithm}}
+  with {{Reference Model}} for a {{Single Conical Tank System}}.
+\newblock 1(7):758.
+
+\bibitem{rindlerCalculusVariations2018}
+Filip Rindler.
+\newblock {\em Calculus of {{Variations}}}.
+\newblock Universitext. Springer International Publishing.
+
+\bibitem{tajadodiEfficientTechniqueSolving2020}
+Haleh Tajadodi.
+\newblock Efficient {{Technique}} for {{Solving Variable Order Fractional
+  Optimal Control Problems}}.
+\newblock 59(6):5179--5185.
+
+\bibitem{tepljakovFOPIDControllersTheir2018}
+Aleksei Tepljakov, Baris~Baykant Alagoz, Celaleddin Yeroglu, Emmanuel Gonzalez,
+  S.~Hassan HosseinNia, and Eduard Petlenkov.
+\newblock {{FOPID Controllers}} and {{Their Industrial Applications}}: {{A
+  Survey}} of {{Recent Results1}}.
+\newblock 51(4):25--30.
+
+\bibitem{tepljakovFOMCONMATLABToolbox2011}
+Aleksei Tepljakov, Eduard Petlenkov, and Juri Belikov.
+\newblock {{FOMCON}}: {{A MATLAB Toolbox}} for {{Fractional-Order System
+  Identification}} and {{Control}}.
+\newblock 2:51--62.
+
+\bibitem{turkyilmazogluFractionalModelsFalling2023}
+Mustafa Turkyilmazoglu and Mohamed Altanji.
+\newblock Fractional {{Models}} of {{Falling Object}} with {{Linear}} and
+  {{Quadratic Frictional Forces Considering Caputo Derivative}}.
+\newblock 166:112980.
+
+\bibitem{tzounasTheoryImplementationFractional2020}
+Georgios Tzounas, Ioannis Dassios, Mohammed Ahsan~Adib Murad, and Federico
+  Milano.
+\newblock Theory and {{Implementation}} of {{Fractional Order Controllers}} for
+  {{Power System Applications}}.
+\newblock 35(6):4622--4631.
+
+\bibitem{vivasUR5RobotManipulation2021}
+Andres Vivas and José~María Sabater.
+\newblock {{UR5 Robot Manipulation}} using {{Matlab}}/{{Simulink}} and {{ROS}}.
+\newblock In {\em 2021 {{IEEE International Conference}} on {{Mechatronics}}
+  and {{Automation}} ({{ICMA}})}, pages 338--343.
+
+\bibitem{wangConditionsStabilitySwitched2019}
+Yue-E Wang, Hamid~Reza Karimi, and Di~Wu.
+\newblock Conditions for the {{Stability}} of {{Switched Systems Containing
+  Unstable Subsystems}}.
+\newblock 66(4):617--621.
+
+\bibitem{wyrwasStabilityDiscreteFractionalOrder2013}
+Malgorzata Wyrwas, Dorota Mozyrska, and Ewa Girejko.
+\newblock Stability of {{Discrete Fractional-Order Nonlinear Systems}} with the
+  {{Nabla Caputo Difference}}.
+\newblock 46(1):167--171.
+
+\bibitem{zhaoResearchImplementationAutonomous2022}
+Jianwei Zhao, Shengyi Liu, and Jinyu Li.
+\newblock Research and {{Implementation}} of {{Autonomous Navigation}} for
+  {{Mobile Robots Based}} on {{SLAM Algorithm}} under {{ROS}}.
+\newblock 22(11):4172.
+
+\end{thebibliography}

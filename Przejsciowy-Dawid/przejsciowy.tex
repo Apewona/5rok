@@ -1,0 +1,53 @@
+%% Libs
+\documentclass[polish,11pt,a4paper]{article}
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{babel}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{caption}
+\usepackage{amsmath} 
+\usepackage{amssymb} 
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+\usepackage{subfig}
+\usepackage{cancel}
+\usepackage{import}
+\usepackage{svg}
+
+%% start document
+\begin{document}
+	
+	%% Strona tytułowa
+	\setstretch{1.5}
+	\centering
+	\section*{PRACA PRZEJŚCIOWA}
+	\section*{Projekt oprogramowania do matematycznego modelowania układów niecałkowitego rzędu}
+	
+	\large
+	KOD PRZEDMIOTU: MYAR2S22001M
+	\break
+	\large
+	\break
+	\break
+	\break
+	
+	\raggedright
+	Autor: Ostaszewicz Dawid
+	\break
+	
+	Kierunek: Automatyka i Robotyka, II stopień
+
+	Prowadzący: dr inż. Tomasz Huścio
+	\clearpage
+\justifying
+\section*{Cel projektu}
+Celem projektu jest opracowanie oprogramowania do matematycznego modelowania układów niecałkowitego rzędu. Badania nad układami tego rodzaju z roku na rok przyciągają coraz szersze grono ekspertów z dziedziny automatyki i teorii sterowania. Taka sytuacja ma miejsce ze względu na zdecydowanie poprawione warunki dynamiczne rachunku całkowo-różniczkowego niecałkowitego rzędu, względem klasycznych układów całkowitych.
+\section*{Analiza literatury}
+Rachunek ułamkowego rzędu ma swoje początki już w 1832 r. Badania wybitnego matematyka Josepha Riemanna doprowadziły do powstania generalizacji silni z argumentów będących liczbami naturalnymi do liczb rzeczywistych. Uogólniona funkcja nazywa się funkcją gamma i jest aproksymacją, która zwiększa dziedzinę wartości funkcji silni. Na przestrzeni ostatnich stu lat powstało wiele definicji rachunku ułamkowego rzędu. Główny trzon stanowią definicje Riemann'a-Liouvill'a, która jest stosunkowo prosta od obliczenia i przekształcania, jednak nie można w niej założyć warunków początkowych. Następną popularną definicją jest różniczka Caputo, jest odrobinę trudniejsza w przekształceniach, jednak pozwala na badanie rachunku pod względem różnych warunków początkowych. Trzecią najczęściej stosowaną definicją jest definicja dyskretna Grünwald'a-Letnikov'a. Znaczącą cechą rachunku jest posiadanie pamięci, która w różnych definicjach różnie współdziała wraz z postępem czasu i w inny sposób wpływa na przyszłe działanie układu. Podstawowe definicje i matematyczną stronę rachunku omawia prof. Podlubny [37]. Prof. Kaczorek wraz z dr. Rogowskim opisują zastosowanie rachunku w układach odnoszących się do teorii sterowania [21],[22]. Główny trzon badań nad matematyką i implementacją mikroprocesorową wymienianego rachunku prowadzi również prof. Ostalczyk [33]. Obecnie istnieje kilka bibliotek Matlab'a do wykonywania symulacji układów niecałkowitego rzędu. W tej dziedzinie wiodą FOMCON, FOTF [6], [42], [43]. Definicję dyskretną w oprogramowaniu stosował prof. Ostalczyk [11]. Rozwój rachunku i metod numerycznych prowadzi do rozwoju bardziej zaawansowanych technik sterowania i regulacji obiektów dynamicznych, jak również pozwala na lepszy opis dynamiki wybranych obiektów [3], [7], [10], [14], [26], [27], [44]. Nie ma ogólnodostępnej biblioteki, która pozwala na symulację układów z definicji  Grünwald'a-Letnikov'a, z tego względu takie oprogramowanie powstanie w tym projekcie.
+\nocite{*}  % This command includes all entries from the .bib file
+
+\bibliographystyle{plain}
+\bibliography{biblioteka}
+	
+\end{document}

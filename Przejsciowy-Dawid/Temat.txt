@@ -1,1 +1,0 @@
-Projekt oprogramowania do matematycznego modelowania układów niecałkowitego rzędu.
