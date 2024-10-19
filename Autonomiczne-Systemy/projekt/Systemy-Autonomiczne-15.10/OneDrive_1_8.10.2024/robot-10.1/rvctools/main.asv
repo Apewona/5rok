@@ -1,0 +1,17 @@
+clc; 
+run startup_rvc.m;
+sim("simulink\sl_quadrotor.slx");
+
+t = X.time;
+
+x = X.signals.values(:,1);
+sx = X.signals.values(:,2);
+
+y = Y.signals.values(:,1);
+sy = Y.signals.values(:,2);
+
+z = Z.signals.values(:,1);
+sz = Z.signals.values(:,2);
+
+
+
