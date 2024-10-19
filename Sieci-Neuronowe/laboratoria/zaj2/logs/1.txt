@@ -1,0 +1,87 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.RBFClassifier -N 2 -R 0.01 -L 1.0E-6 -C 2 -P 1 -E 1 -S 1
+Relation:     Dry_Beans_Dataset-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.attribute.Standardize-weka.filters.unsupervised.instance.RemovePercentage-P30.0
+Instances:    9528
+Attributes:   17
+              Area
+              Perimeter
+              MajorAxisLength
+              MinorAxisLength
+              AspectRation
+              Eccentricity
+              ConvexArea
+              EquivDiameter
+              Extent
+              Solidity
+              roundness
+              Compactness
+              ShapeFactor1
+              ShapeFactor2
+              ShapeFactor3
+              ShapeFactor4
+              Class
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+Output weights for different classes:
+-9.351949283365178	-4.119951070844811	-7.124077705262919	12.598354090394338	-6.561230507766907	23.39385526154288	26.950772167049877	
+
+Unit center:
+0.18815032429885936	0.19484911866040103	0.19291009073736615	0.23399846886133124	0.12734862098166547	1.0276963985624237	0.18198908222000604	0.22082210346272874	0.6416645305967598	0.9085256715198756	0.7829421149216212	0.4398120139803498	0.7150645356515041	0.45146968307957624	0.30486529366826187	0.8101913974095248	
+
+Unit scale:
+0.4328214907962605	
+
+Output weights for different classes:
+-14.589690093027384	0.41372811345462174	-4.503667891299781	35.1295675946583	2.267676694519768	11.008955645265123	-40.43879176287782	
+
+Unit center:
+0.31077245781967155	0.41351059747038366	0.5590252458834982	0.4355786043407767	0.7085305976402612	0.9027286052972733	0.3007116569661201	0.48564332980514974	0.6235246233170099	0.9332747004372609	0.7938652413016862	0.2033616329817479	0.07582691134545919	-0.08897391242889888	0.17875954397935823	0.556959170077322	
+
+Unit scale:
+0.877666091549847	
+
+Bias weights for different classes:
+5.676837688143847	-12.311486901978625	-10.50501525699631	-27.660437688982203	-1.1621787033247817	-16.19353967129045	1.765018573603326	
+
+Time taken to build model: 11.49 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.04 seconds
+
+=== Summary ===
+
+Correctly Classified Instances        3147               77.0757 %
+Incorrectly Classified Instances       936               22.9243 %
+Kappa statistic                          0.7185
+Mean absolute error                      0.1127
+Root mean squared error                  0.2403
+Relative absolute error                 47.7772 %
+Root relative squared error             70.0062 %
+Total Number of Instances             4083     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,886    0,019    0,889      0,886    0,888      0,869    0,978     0,936     SEKER
+                 0,000    0,000    ?          0,000    ?          ?        0,827     0,300     BARBUNYA
+                 0,000    0,000    ?          0,000    ?          ?        0,893     0,142     BOMBAY
+                 0,923    0,025    0,822      0,923    0,870      0,854    0,992     0,943     CALI
+                 0,924    0,121    0,563      0,924    0,700      0,664    0,940     0,644     HOROZ
+                 0,856    0,063    0,780      0,856    0,816      0,767    0,965     0,883     SIRA
+                 0,871    0,050    0,859      0,871    0,865      0,817    0,975     0,932     DERMASON
+Weighted Avg.    0,771    0,049    ?          0,771    ?          ?        0,953     0,794     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   <-- classified as
+ 531   0   0   0   5  14  49 |   a = SEKER
+   4   0   0  58 271  52   0 |   b = BARBUNYA
+  19   0   0   0 125   0   0 |   c = BOMBAY
+   0   0   0 420   7  28   0 |   d = CALI
+   2   0   0  29 546  13   1 |   e = HOROZ
+   3   0   0   4  13 725 102 |   f = SIRA
+  38   0   0   0   2  97 925 |   g = DERMASON
