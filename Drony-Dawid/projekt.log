@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.11)  6 NOV 2024 18:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.11)  8 NOV 2024 18:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,6 +327,33 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 LaTeX Warning: Label `fig:enter-label' multiply defined.
 
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
 )
 \openout1 = `projekt.aux'.
 
@@ -413,33 +440,117 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/dawid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<strojenie/str-sch.png, id=13, 1412.8785pt x 414.95026pt>
+File: strojenie/str-sch.png Graphic file (type png)
+<use strojenie/str-sch.png>
+Package pdftex.def Info: strojenie/str-sch.png  used on input line 92.
+(pdftex.def)             Requested size: 483.69687pt x 142.05629pt.
+<strojenie/RLY.png, id=15, 682.01466pt x 438.57184pt>
+File: strojenie/RLY.png Graphic file (type png)
+<use strojenie/RLY.png>
+Package pdftex.def Info: strojenie/RLY.png  used on input line 106.
+(pdftex.def)             Requested size: 338.58632pt x 217.73282pt.
+<strojenie/XYZ.png, id=16, 690.84767pt x 437.36734pt>
+File: strojenie/XYZ.png Graphic file (type png)
+<use strojenie/XYZ.png>
+Package pdftex.def Info: strojenie/XYZ.png  used on input line 112.
+(pdftex.def)             Requested size: 338.58632pt x 214.35191pt.
+
 
 [2
 
-]
-<paraboliczna/sc_parab.png, id=16, 1497.79575pt x 578.16pt>
+ <./strojenie/str-sch.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<strojenie/z.png, id=21, 679.60567pt x 432.014pt>
+File: strojenie/z.png Graphic file (type png)
+<use strojenie/z.png>
+Package pdftex.def Info: strojenie/z.png  used on input line 144.
+(pdftex.def)             Requested size: 338.58632pt x 215.2352pt.
+
+
+[3 <./strojenie/RLY.png> <./strojenie/XYZ.png>]
+
+[4 <./strojenie/z.png>]
+<paraboliczna/sc_parab.png, id=31, 1497.79575pt x 578.16pt>
 File: paraboliczna/sc_parab.png Graphic file (type png)
 <use paraboliczna/sc_parab.png>
-Package pdftex.def Info: paraboliczna/sc_parab.png  used on input line 107.
+Package pdftex.def Info: paraboliczna/sc_parab.png  used on input line 176.
 (pdftex.def)             Requested size: 483.69687pt x 186.7088pt.
 
 
-[3 <./paraboliczna/sc_parab.png>]
-<paraboliczna/parabole.png, id=27, 624.39941pt x 430.74258pt>
+[5 <./paraboliczna/sc_parab.png>]
+<paraboliczna/parabole.png, id=36, 624.39941pt x 430.74258pt>
 File: paraboliczna/parabole.png Graphic file (type png)
 <use paraboliczna/parabole.png>
-Package pdftex.def Info: paraboliczna/parabole.png  used on input line 139.
-(pdftex.def)             Requested size: 338.58632pt x 233.57684pt.
-<paraboliczna/st.png, id=28, 600.30942pt x 423.04716pt>
+Package pdftex.def Info: paraboliczna/parabole.png  used on input line 208.
+(pdftex.def)             Requested size: 314.40001pt x 216.8956pt.
+<paraboliczna/st.png, id=37, 600.30942pt x 423.04716pt>
 File: paraboliczna/st.png Graphic file (type png)
 <use paraboliczna/st.png>
-Package pdftex.def Info: paraboliczna/st.png  used on input line 146.
-(pdftex.def)             Requested size: 338.58632pt x 238.61542pt.
+Package pdftex.def Info: paraboliczna/st.png  used on input line 215.
+(pdftex.def)             Requested size: 314.40001pt x 221.5673pt.
 
 
-[4 <./paraboliczna/parabole.png> <./paraboliczna/st.png>]
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] (projekt.aux)
+
+
+[6 <./paraboliczna/parabole.png>]
+<lądowanie/set.png, id=48, 377.0085pt x 245.11575pt>
+File: lądowanie/set.png Graphic file (type png)
+<use lądowanie/set.png>
+Package pdftex.def Info: lądowanie/set.png  used on input line 240.
+(pdftex.def)             Requested size: 483.69687pt x 314.48389pt.
+
+
+[7 <./paraboliczna/st.png>]
+<lądowanie/lond.png, id=54, 390.86024pt x 345.08925pt>
+File: lądowanie/lond.png Graphic file (type png)
+<use lądowanie/lond.png>
+Package pdftex.def Info: lądowanie/lond.png  used on input line 254.
+(pdftex.def)             Requested size: 314.40001pt x 277.59354pt.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 263.
+ (D:\MikTex\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+[8 <./lądowanie/set.png>]
+<lądowanie/land.png, id=60, 648.92438pt x 446.41782pt>
+File: lądowanie/land.png Graphic file (type png)
+<use lądowanie/land.png>
+Package pdftex.def Info: lądowanie/land.png  used on input line 279.
+(pdftex.def)             Requested size: 314.40001pt x 216.28758pt.
+
+
+[9 <./lądowanie/lond.png> <./lądowanie/land.png>]
+Overfull \hbox (1.62633pt too wide) in paragraph at lines 287--291
+\T1/cmr/m/n/12 to�� wej-�cia "set"bloku au-to-ma-tycz-nego l�-do-wa-nia. Na-st�p-nie za-dane tra-jek-to-rie zo-sta�y wstrzy-
+ []
+
+<nakazane/nakaz-sch.png, id=66, 659.46375pt x 296.307pt>
+File: nakazane/nakaz-sch.png Graphic file (type png)
+<use nakazane/nakaz-sch.png>
+Package pdftex.def Info: nakazane/nakaz-sch.png  used on input line 302.
+(pdftex.def)             Requested size: 483.69687pt x 217.33768pt.
+
+
+[10 <./nakazane/nakaz-sch.png>]
+
+[11]
+<nakazane/nakaz.png, id=74, 696.201pt x 645.612pt>
+File: nakazane/nakaz.png Graphic file (type png)
+<use nakazane/nakaz.png>
+Package pdftex.def Info: nakazane/nakaz.png  used on input line 387.
+(pdftex.def)             Requested size: 338.58632pt x 313.98836pt.
+
+
+[12]
+
+[13 <./nakazane/nakaz.png>]
+
+[14] (projekt.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -450,17 +561,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8966 strings out of 473904
- 156608 string characters out of 5743015
- 1933908 words of memory out of 5000000
- 31663 multiletter control sequences out of 15000+600000
- 566866 words of font info for 60 fonts, out of 8000000 for 9000
+ 9080 strings out of 473904
+ 159320 string characters out of 5743015
+ 1936908 words of memory out of 5000000
+ 31773 multiletter control sequences out of 15000+600000
+ 568427 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,6n,93p,331b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><D:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on projekt.pdf (5 pages, 2466057 bytes).
+ 94i,9n,93p,331b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><D:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on projekt.pdf (14 pages, 3565886 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
+ 399 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

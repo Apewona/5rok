@@ -25,14 +25,20 @@ syaw = Yaw.signals.values(:,2);
 %% Figures
 figure(1)
 subplot(3,1,1);
-plot(t,x);hold on;
-plot(t,sx);hold off;
+plot(t,pitch);hold on;
+plot(t,spitch);hold off;
 grid on;
 subplot(3,1,2)
-plot(t,y); hold on;
-plot(t,sy);hold off;
+plot(t,roll); hold on;
+plot(t,sroll);hold off;
 grid on;
 subplot(3,1,3)
+plot(t,yaw); hold on;
+plot(t,syaw);hold off;
+
+grid on;
+
+figure(2)
 plot(t,z); hold on;
 plot(t,sz);hold off;
 
