@@ -14,7 +14,8 @@
 \usepackage{cancel}
 \usepackage{import}
 \usepackage{svg}
-
+\usepackage{pdfpages}
+\usepackage{geometry}
 %% start document
 \begin{document}
 %% Strona tytułowa
@@ -418,4 +419,7 @@ Ogólnie rzecz biorąc, projekt został opracowany w środowisku pozbawionym wp�
    byłoby bardziej wymagające. W praktycznych zastosowaniach korzystne mogłoby okazać się 
    wdrożenie zaawansowanych algorytmów regulacji, aby minimalizować wpływ zakłóceń na działanie 
    układu sterowania.
+\clearpage
+   \newgeometry{paper=a3paper, landscape}
+   \includepdf[pages=1-6, angle=90]{schematy.pdf}
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.11)  8 NOV 2024 18:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.11)  12 NOV 2024 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -316,10 +316,45 @@ File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@bigbuffer@items=\count302
 ) (D:\MikTex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (D:\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+)) (D:\MikTex\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2024/10/28 v0.6c Insert pages of external PDF documents (AM)
+ (D:\MikTex\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (D:\MikTex\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen183
+\calc@Bdimen=\dimen184
+\calc@Askip=\skip73
+\calc@Bskip=\skip74
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count305
+\calc@Cskip=\skip75
+) (D:\MikTex\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen185
+\ESO@tempdimb=\dimen186
+)
+\AM@pagewidth=\dimen187
+\AM@pageheight=\dimen188
+\AM@fboxrule=\dimen189
+ (D:\MikTex\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2024/10/28 v0.6c Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count306
+\AM@pagebox=\box56
+\AM@global@opts=\toks33
+\AM@pagecnt=\count307
+\AM@toc@title=\toks34
+\AM@lof@heading=\toks35
+\c@AM@survey=\count308
+\AM@templatesizebox=\box57
+) (D:\MikTex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box58
 ) (projekt.aux
 
 LaTeX Warning: Label `fig:enter-label' multiply defined.
@@ -357,20 +392,20 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 )
 \openout1 = `projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -408,17 +443,17 @@ LaTeX Font Info:    ... okay on input line 19.
 
 (D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
-\scratchdimen=\dimen183
-\scratchbox=\box57
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count307
-\MPscratchDim=\dimen184
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count310
+\scratchdimen=\dimen190
+\scratchbox=\box59
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen191
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks37
 ) (D:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -428,11 +463,20 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+ (D:\MikTex\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (D:\MikTex\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (D:\MikTex\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
  (D:\MikTex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
  (D:\MikTex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -443,17 +487,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <strojenie/str-sch.png, id=13, 1412.8785pt x 414.95026pt>
 File: strojenie/str-sch.png Graphic file (type png)
 <use strojenie/str-sch.png>
-Package pdftex.def Info: strojenie/str-sch.png  used on input line 92.
+Package pdftex.def Info: strojenie/str-sch.png  used on input line 93.
 (pdftex.def)             Requested size: 483.69687pt x 142.05629pt.
 <strojenie/RLY.png, id=15, 682.01466pt x 438.57184pt>
 File: strojenie/RLY.png Graphic file (type png)
 <use strojenie/RLY.png>
-Package pdftex.def Info: strojenie/RLY.png  used on input line 106.
+Package pdftex.def Info: strojenie/RLY.png  used on input line 107.
 (pdftex.def)             Requested size: 338.58632pt x 217.73282pt.
 <strojenie/XYZ.png, id=16, 690.84767pt x 437.36734pt>
 File: strojenie/XYZ.png Graphic file (type png)
 <use strojenie/XYZ.png>
-Package pdftex.def Info: strojenie/XYZ.png  used on input line 112.
+Package pdftex.def Info: strojenie/XYZ.png  used on input line 113.
 (pdftex.def)             Requested size: 338.58632pt x 214.35191pt.
 
 
@@ -466,7 +510,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <strojenie/z.png, id=21, 679.60567pt x 432.014pt>
 File: strojenie/z.png Graphic file (type png)
 <use strojenie/z.png>
-Package pdftex.def Info: strojenie/z.png  used on input line 144.
+Package pdftex.def Info: strojenie/z.png  used on input line 145.
 (pdftex.def)             Requested size: 338.58632pt x 215.2352pt.
 
 
@@ -476,7 +520,7 @@ Package pdftex.def Info: strojenie/z.png  used on input line 144.
 <paraboliczna/sc_parab.png, id=31, 1497.79575pt x 578.16pt>
 File: paraboliczna/sc_parab.png Graphic file (type png)
 <use paraboliczna/sc_parab.png>
-Package pdftex.def Info: paraboliczna/sc_parab.png  used on input line 176.
+Package pdftex.def Info: paraboliczna/sc_parab.png  used on input line 177.
 (pdftex.def)             Requested size: 483.69687pt x 186.7088pt.
 
 
@@ -484,12 +528,12 @@ Package pdftex.def Info: paraboliczna/sc_parab.png  used on input line 176.
 <paraboliczna/parabole.png, id=36, 624.39941pt x 430.74258pt>
 File: paraboliczna/parabole.png Graphic file (type png)
 <use paraboliczna/parabole.png>
-Package pdftex.def Info: paraboliczna/parabole.png  used on input line 208.
+Package pdftex.def Info: paraboliczna/parabole.png  used on input line 209.
 (pdftex.def)             Requested size: 314.40001pt x 216.8956pt.
 <paraboliczna/st.png, id=37, 600.30942pt x 423.04716pt>
 File: paraboliczna/st.png Graphic file (type png)
 <use paraboliczna/st.png>
-Package pdftex.def Info: paraboliczna/st.png  used on input line 215.
+Package pdftex.def Info: paraboliczna/st.png  used on input line 216.
 (pdftex.def)             Requested size: 314.40001pt x 221.5673pt.
 
 
@@ -501,7 +545,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <lądowanie/set.png, id=48, 377.0085pt x 245.11575pt>
 File: lądowanie/set.png Graphic file (type png)
 <use lądowanie/set.png>
-Package pdftex.def Info: lądowanie/set.png  used on input line 240.
+Package pdftex.def Info: lądowanie/set.png  used on input line 241.
 (pdftex.def)             Requested size: 483.69687pt x 314.48389pt.
 
 
@@ -509,9 +553,9 @@ Package pdftex.def Info: lądowanie/set.png  used on input line 240.
 <lądowanie/lond.png, id=54, 390.86024pt x 345.08925pt>
 File: lądowanie/lond.png Graphic file (type png)
 <use lądowanie/lond.png>
-Package pdftex.def Info: lądowanie/lond.png  used on input line 254.
+Package pdftex.def Info: lądowanie/lond.png  used on input line 255.
 (pdftex.def)             Requested size: 314.40001pt x 277.59354pt.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 263.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 264.
  (D:\MikTex\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -520,19 +564,19 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 <lądowanie/land.png, id=60, 648.92438pt x 446.41782pt>
 File: lądowanie/land.png Graphic file (type png)
 <use lądowanie/land.png>
-Package pdftex.def Info: lądowanie/land.png  used on input line 279.
+Package pdftex.def Info: lądowanie/land.png  used on input line 280.
 (pdftex.def)             Requested size: 314.40001pt x 216.28758pt.
 
 
 [9 <./lądowanie/lond.png> <./lądowanie/land.png>]
-Overfull \hbox (1.62633pt too wide) in paragraph at lines 287--291
+Overfull \hbox (1.62633pt too wide) in paragraph at lines 288--292
 \T1/cmr/m/n/12 to�� wej-�cia "set"bloku au-to-ma-tycz-nego l�-do-wa-nia. Na-st�p-nie za-dane tra-jek-to-rie zo-sta�y wstrzy-
  []
 
 <nakazane/nakaz-sch.png, id=66, 659.46375pt x 296.307pt>
 File: nakazane/nakaz-sch.png Graphic file (type png)
 <use nakazane/nakaz-sch.png>
-Package pdftex.def Info: nakazane/nakaz-sch.png  used on input line 302.
+Package pdftex.def Info: nakazane/nakaz-sch.png  used on input line 303.
 (pdftex.def)             Requested size: 483.69687pt x 217.33768pt.
 
 
@@ -542,7 +586,7 @@ Package pdftex.def Info: nakazane/nakaz-sch.png  used on input line 302.
 <nakazane/nakaz.png, id=74, 696.201pt x 645.612pt>
 File: nakazane/nakaz.png Graphic file (type png)
 <use nakazane/nakaz.png>
-Package pdftex.def Info: nakazane/nakaz.png  used on input line 387.
+Package pdftex.def Info: nakazane/nakaz.png  used on input line 388.
 (pdftex.def)             Requested size: 338.58632pt x 313.98836pt.
 
 
@@ -550,7 +594,194 @@ Package pdftex.def Info: nakazane/nakaz.png  used on input line 387.
 
 [13 <./nakazane/nakaz.png>]
 
-[14] (projekt.aux)
+[14]
+
+Package geometry Warning: `a3paper': not available in `\newgeometry'; skipped.
+
+
+Package geometry Warning: `landscape': not available in `\newgeometry'; skipped.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=86, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf>
+Package pdftex.def Info: schematy.pdf  used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf>
+Package pdftex.def Info: schematy.pdf  used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=89, page=1, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 1>
+Package pdftex.def Info: schematy.pdf , page1 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 1>
+Package pdftex.def Info: schematy.pdf , page1 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 1>
+Package pdftex.def Info: schematy.pdf , page1 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 1>
+Package pdftex.def Info: schematy.pdf , page1 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 1>
+Package pdftex.def Info: schematy.pdf , page1 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+[15
+
+
+
+ <./schematy.pdf>]
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=96, page=2, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 2>
+Package pdftex.def Info: schematy.pdf , page2 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 2>
+Package pdftex.def Info: schematy.pdf , page2 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 2>
+Package pdftex.def Info: schematy.pdf , page2 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+[16
+
+ <./schematy.pdf>]
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=101, page=3, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 3>
+Package pdftex.def Info: schematy.pdf , page3 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 3>
+Package pdftex.def Info: schematy.pdf , page3 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 3>
+Package pdftex.def Info: schematy.pdf , page3 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+[17
+
+ <./schematy.pdf>]
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=105, page=4, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 4>
+Package pdftex.def Info: schematy.pdf , page4 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 4>
+Package pdftex.def Info: schematy.pdf , page4 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 4>
+Package pdftex.def Info: schematy.pdf , page4 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+[18
+
+ <./schematy.pdf>]
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=109, page=5, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 5>
+Package pdftex.def Info: schematy.pdf , page5 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 5>
+Package pdftex.def Info: schematy.pdf , page5 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 5>
+Package pdftex.def Info: schematy.pdf , page5 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+[19
+
+ <./schematy.pdf>]
+
+pdfTeX warning: pdflatex (file ./schematy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<schematy.pdf, id=114, page=6, 845.07724pt x 597.55246pt>
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 6>
+Package pdftex.def Info: schematy.pdf , page6 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 6>
+Package pdftex.def Info: schematy.pdf , page6 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+
+
+File: schematy.pdf Graphic file (type pdf)
+<use schematy.pdf, page 6>
+Package pdftex.def Info: schematy.pdf , page6 used on input line 424.
+(pdftex.def)             Requested size: 845.07518pt x 597.551pt.
+[20
+
+ <./schematy.pdf>] (projekt.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -561,17 +792,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9080 strings out of 473904
- 159320 string characters out of 5743015
+ 9977 strings out of 473904
+ 174746 string characters out of 5743015
  1936908 words of memory out of 5000000
- 31773 multiletter control sequences out of 15000+600000
+ 32643 multiletter control sequences out of 15000+600000
  568427 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,9n,93p,331b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,19n,93p,352b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><D:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on projekt.pdf (14 pages, 3565886 bytes).
+Output written on projekt.pdf (20 pages, 4085385 bytes).
 PDF statistics:
- 399 PDF objects out of 1000 (max. 8388607)
+ 431 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
